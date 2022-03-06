@@ -31,8 +31,8 @@ languages:
       title: مجید بابایی
       subtitle: "برنامه نویس!"
       imageUrl: "me.jpg"
-      imageWidth: 120
-      imageHeight: 120
+      imageWidth: 160
+      imageHeight: 160
       imageTitle: مجید بابایی
       label:
         text: "صفحه اصلی"
@@ -55,8 +55,8 @@ languages:
       title: Majid babaei
       subtitle: "Full stack developer"
       imageUrl: "me.jpg"
-      imageWidth: 120
-      imageHeight: 120
+      imageWidth: 160
+      imageHeight: 160
       imageTitle: Majid Babaeii
 #      buttons:
 #        - name: بلاگ
@@ -65,7 +65,7 @@ languages:
 #          url: about
 
 params:
-  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
 
   images: [ ]
   DateFormat: "January 2, 2006"
