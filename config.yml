@@ -102,9 +102,9 @@ params:
     - name: email
       url: "mailto:majid.babaeii70@gmail.com"
 
-  #  analytics:
-  #    google:
-  #      SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "vOqO_Av5WXOlQ0tTOpCGvrj3zhEMnxwFnS9bb7RxpA8"
   #    bing:
   #      SiteVerificationTag: "XYZabc"
   #    yandex:
