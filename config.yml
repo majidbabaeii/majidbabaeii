@@ -133,6 +133,8 @@ params:
     keys: [ "title", "permalink", "summary", "content" ]
 
 
+googleAnalytics: UA-222423736-1
+
 
 author:
   majid:
